@@ -71,7 +71,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://al-amin-khan-shakil.github.io/JavaScript-Capstone-Project/dist/)
+- [Live Demo Link]( https://alselwiaisha.github.io/JavaScriptGroupCapstone/dist/)
 
 <!-- Video Description -->
 
