@@ -12,26 +12,26 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-  - [Video Description](#video-description)
-- [💻 Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Setup](#setup)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 JavaScript Capstone Project ](#-javascript-capstone-project-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [❓ FAQ (OPTIONAL) ](#-faq-optional-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -74,11 +74,6 @@
 - [Live Demo Link](https://al-amin-khan-shakil.github.io/JavaScript-Capstone-Project/dist/)
 
 <!-- Video Description -->
-
-## Video Description <a name="video-description"></a>
-
-
-- [Description Link](https://drive.google.com/file/d/16qTYWsCRCOrJsjTuW8hBtQ08DMeKPd1r/view?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -194,7 +189,7 @@ If you like this project give it a Star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank **Aisha Alselwi** for his website templete. You can follow her on [Github](https://github.com/AlselwiAisha).
+I would like to thank **Al-Amin Khan Shakil** for his website templete. You can follow her on [Github](https://github.com/Al-Amin-Khan-Shakil).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
